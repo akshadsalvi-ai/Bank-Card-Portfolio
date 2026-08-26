@@ -37,7 +37,8 @@ The dataset contains bank card information for different clients. Each row repre
 * **Total Cards:** 9,238
 * **Average Credit Limit:** ₹14,347.49
 * **Total Client:** 6,146
-* **Total Credit Limit:** ₹8,81,79,698.00
+* **Maximum Credit Limit:** ₹1,51,223.00
+* **Minimum Credit Limit:** ₹500.00
 
 **Visual Charts & Analytics**
 * **Card Issued Per Year:** Line chart tracking historical card issuance volume.
