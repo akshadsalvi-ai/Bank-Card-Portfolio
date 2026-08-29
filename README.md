@@ -60,7 +60,7 @@ The dataset contains bank card information for different clients. Each row repre
 
 ## 🖼️ Dashboard Preview
 
-*(Insert your dashboard screenshot here: `![Dashboard Preview](link_to_your_image.jpg)`)*
+
 
 ## 🔍 Key Insights
 
