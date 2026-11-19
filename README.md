@@ -59,7 +59,7 @@ The dataset contains bank card information for different clients. Each row repre
 * EMV Chip Enabled Status (Yes / No)
 
 ## 🖼️ Dashboard Preview
-
+![Screenshot 2026-11-19 211911.png]
 
 
 ## 🔍 Key Insights
