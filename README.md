@@ -59,7 +59,7 @@ The dataset contains bank card information for different clients. Each row repre
 * EMV Chip Enabled Status (Yes / No)
 
 ## 🖼️ Dashboard Preview
-![Screenshot 2026-11-18 201753.png](https://github.com/akshadsalvi-ai/Bank-Card-Portfolio/blob/main/Screenshot%202026-11-18%20201753.png)
+
 
 
 ## 🔍 Key Insights
